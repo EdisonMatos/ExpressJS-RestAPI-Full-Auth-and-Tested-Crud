@@ -34,7 +34,8 @@ Este repositório contém uma API Restful desenvolvida com Express.js, incluindo
 1. **Clonar o Repositório:**
 
     ```bash
-    git clone https://github.com/EdisonMatos/ExpressJS-RestAPI-Full-Authentiaced-and-tested-Crud.git
+    git clone https://github.com/EdisonMatos/ExpressJS-RestAPI-Full-Auth-and-Tested-Crud.git
+    cd ExpressJS-RestAPI-Full-Auth-and-Tested-Crud
     ```
 
 2. **Instalar Dependências:**
