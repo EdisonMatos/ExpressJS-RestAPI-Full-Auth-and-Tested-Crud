@@ -1,0 +1,22 @@
+{
+  "name": "fullap",
+  "version": "1.0.0",
+  "description": "- ExpressJS CRUD - CRUD validation - CRUD authentication - CRUD tests",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.1",
+    "supertest": "^6.3.3"
+  }
+}
