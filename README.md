@@ -16,7 +16,6 @@ Este repositório contém uma API Restful desenvolvida com Express.js, incluindo
 ## Soon
 
 - **MongoDB Database**
-- **Prisma ORM**
 - **CRUD authentication**
 - **CRUD tests**
 
