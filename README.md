@@ -12,6 +12,7 @@ Este repositório contém uma API Restful desenvolvida com Express.js, incluindo
 - **Express:** Framework para construção de aplicativos web em Node.js.
 - **JWT Token:** Json Web Tokens para autenticações.
 - **Jest:** Framework de testes em JavaScript.
+- **CommitLint (or Conventional Commit)** Pattern for commits with Git.
 
 ## Soon
 
